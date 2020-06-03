@@ -73,7 +73,7 @@ The following python programs should be run from the index folder, where the seq
 
 The complete data containing the sequences and all .txt files is available here: https://drive.google.com/uc?id=1RvDSuuAwpsxY2-oMSJLnu49_M_47-X4i&export=download
 
-The code and the comments inside the code are in Slovenian, due to this being a university project.
+The code and the comments inside the code are in Slovenian, due to this being a university project for the Faculty of Electrical Engineering, University of Ljubljana.
 
 ## References
 
