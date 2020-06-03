@@ -17,6 +17,7 @@ The code is divided into three separate .py files:
 The files should be run in the presented sequence.
 
 This is to be paired with a few selected sequences from the TinyTLP dataset, available here: https://amoudgl.github.io/tlp/
+
 The sequences are:
   - Alladin
   - Aquarium2
@@ -69,6 +70,8 @@ The following python programs should be run from the index folder, where the seq
   - The program reads the data from the imported files and it appends them to the appropriate lists,
   - The program then calculates the average values of all sequences for the current tracker,
   - Lastly, the program shows the plots for the success, precision, LSM metrics, their appropriate scores and the attribute based           success plots.
+
+The complete data containing the sequences and all .txt files is available here: https://drive.google.com/uc?id=1RvDSuuAwpsxY2-oMSJLnu49_M_47-X4i&export=download
 
 The code and the comments inside the code are in Slovenian, due to this being a university project.
 
