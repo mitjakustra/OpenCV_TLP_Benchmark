@@ -3,7 +3,7 @@ This repository contains the code to analyse the tracking algoritms contained in
 
 ## Requirements
 
-To run the code you will need to install Python 3.5/3.6/3.7/3.8, as well as having the next libraries installed:
+To run the code you will need to install Python 3.5/3.6/3.7/3.8, as well as have the next libraries installed:
 - Numpy
 - OpenCV
 - Matplotlib
@@ -14,7 +14,7 @@ The code is divided into three separate .py files:
   - Testiranje_algoritmov.py
   - Primerjava_algoritmov.py
   - Prikaz_algoritmov.py
-The files should be run in the presented sequence.
+The files can be run independently of each other, however it is recommended to run them in the sequence shown above. It is also recommended to download the complete data used for this project (link below). If you wish to benchmark a different tracking algorithm or use different sequences, please use the appropriate file names. 
 
 This is to be paired with a few selected sequences from the TinyTLP dataset, available here: https://amoudgl.github.io/tlp/
 
